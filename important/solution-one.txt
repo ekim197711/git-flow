@@ -1,9 +1,5 @@
-This is the beginning
-This is an important document.
-This was added on dev...
-This was added on mikes feature branch...
-This was added on dev from other user...
-It contains the solutions to problem -20.
+Hello it is a nice day... Test 1234
+It contains the solutions to problem 20.
 The password to our system should be:
 Orange9876
 The project should be completed by:
@@ -12,4 +8,4 @@ Heide
 And be deployed by
 Mike Mike Mike
 hello 12345678
-Dorris Mike Mike
+Doris
